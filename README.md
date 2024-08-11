@@ -1,23 +1,24 @@
-# Final_Project_Data_Lab_Data_Analyst_Coders_Lab
+Final_Project_Data_Lab_Data_Analyst_Coders_Lab
 Tools: Python, Requests, JSON, Pandas, Time, Psycopg2, Sqlalchemy, Plotly.Express, Plotly.IO, Numpy, Threading, Dash, SQL, PostgreSQL
 
-This is my very first real project in Data Analysis, I'm ver proud of it because it was not quite easy to write whole this code. We, yes, We as a team of 4 great specialists (I can say that now, because at the begining we were freshman :]), solve all those issues and get to the final of Final Project in our Data Lab Academy at Coders Lab. 
+This project represents my first significant experience in Data Analysis, and I'm very proud of it, as writing the entire code was quite challenging. Together, as a team of four determined specialists (whom I now proudly call specialists, although we started as freshmen), we tackled all the issues and successfully completed our Final Project at the Data Lab Academy in Coders Lab.
 
-Mayby few words about the project.
+Project Overview:
 
-During the task, we played the role of the person responsible for improving the data flow and analytics process. Previously, due to the use of an external tool, the company was forced to perform all these activities manually. Thanks to the provision of an external service, it was possible to automate the task.
+During this project, we were responsible for improving the data flow and analytics process for a company that previously relied on manual processes due to the limitations of external tools. By integrating an external API service, we were able to automate these tasks, significantly enhancing efficiency.
 
-During the work, we took the following steps, which we will group according to the corresponding professions in the IT industry.
+Our Approach:
 
-  Data Engineer
-    downloading data from an external API service
-    preparing and uploading data to the database
-  
-  Data Analyst
-    analysis of the received data
-    
-  BI Developer
-    creating a report and data visualization
+We tackled the project by adopting roles corresponding to various professions within the IT industry:
 
+Data Engineer:
+Downloading data from an external API service.
+Preparing and uploading data to the database.
+Data Analyst:
+Analyzing the retrieved data.
+BI Developer:
+Creating reports and visualizing the data.
+The dataset focused on the airline industry, covering flights, airports, weather, and various factors influencing outcomes. Our task was to automate the process of addressing the issues identified at the beginning of the project by leveraging the insights derived from this data.
 
-The whole data set was about airlines industry: flights, airports, weather and various factors influence on final result and asked questions which helped to automate issue posted at the begining.
+Outcome:
+The project successfully automated a previously manual process, leading to a more streamlined and efficient data management and analysis workflow. This allowed for quicker decision-making and improved operational efficiency in the airline industry context.d
